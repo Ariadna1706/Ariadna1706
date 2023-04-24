@@ -32,13 +32,14 @@ My name is Ariadna and I’m **aspiring junior web developer** from Wrocław, Po
 
 ## :hammer_and_wrench: Tech Stack 
 
-
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,wordpress,ps)](https://skillicons.dev)
+
 
 &nbsp;
 
-## :writing_hand: My latest blog posts 
-:poland:  [Wordpress image description fields - How to fill them in?](https://ponitcestudio.pl/pola-opisu-zdjec-na-wordpressie-%EF%BF%BC/)
+## :writing_hand: My blog posts 
+:poland:  [Wordpress image description fields - How to fill them in?](https://ponitcestudio.pl/pola-opisu-zdjec-na-wordpressie-%EF%BF%BC/)<br>
+:poland:  [How to add a new user in WordPress - Roles and Permissions ](https://ponitcestudio.pl/jak-dodac-nowego-uzytkownika-w-wordpressie/)
 
 &nbsp;
 
