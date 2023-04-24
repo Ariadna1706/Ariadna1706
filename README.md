@@ -22,7 +22,7 @@ My name is Ariadna and I’m **aspiring junior web developer** from Wrocław, Po
 
 :small_blue_diamond: I'm creating websites using CMS WordPress,
 
-:small_blue_diamond: Currently, I’m participating in an individual front-end development course to learn and            develop my skills in JavaScript and React,
+:small_blue_diamond: Currently, I’m participating in an [individual front-end development course](https://devmentor.pl) to learn and develop my skills in JavaScript and React,
 
 :small_blue_diamond: I’m writing a blog with tips on how to use websites built on WordPress 
 
