@@ -20,7 +20,7 @@ My name is Ariadna and I’m an **aspiring junior web developer** from Wrocław,
 
 
 
-:small_blue_diamond: I'm creating websites using CMS WordPress. Check out my web development portfolio! :arrow_right: [ponitcestudio/portfolio](https://ponitcestudio.pl/portfolio.pl),
+:small_blue_diamond: I'm creating websites using CMS **WordPress**. Check out my web development portfolio! :arrow_right: [ponitcestudio/portfolio](https://ponitcestudio.pl/portfolio),
 
 :small_blue_diamond: Currently, I’m participating in an [individual front-end development course](https://devmentor.pl) to learn and develop my skills in **JavaScript** and **React**,
 
