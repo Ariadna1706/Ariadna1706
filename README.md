@@ -1,4 +1,4 @@
-## 👋 Introduction 
+## :raising_hand_woman: About me 
 
 <!--
 **Ariadna1706/Ariadna1706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,23 +16,23 @@ Here are some ideas to get you started:
 -->
 
 
-My name is Ariadna and I’m **aspiring junior web developer** from Wrocław, Poland. 
+My name is Ariadna and I’m an **aspiring junior web developer** from Wrocław, Poland. 
 
 
 
-:small_blue_diamond: I'm creating websites using CMS WordPress,
+:small_blue_diamond: I'm creating websites using CMS WordPress. Check out my web development portfolio! :arrow_right: [ponitcestudio/portfolio](https://ponitcestudio.pl/portfolio.pl),
 
-:small_blue_diamond: Currently, I’m participating in an [individual front-end development course](https://devmentor.pl) to learn and develop my skills in JavaScript and React,
+:small_blue_diamond: Currently, I’m participating in an [individual front-end development course](https://devmentor.pl) to learn and develop my skills in **JavaScript** and **React**,
 
-:small_blue_diamond: I’m writing a blog with tips on how to use websites built on WordPress,
+:small_blue_diamond: I’m writing a [blog](https://ponitcestudio.pl/blog/) with tips on how to use websites built on **WordPress**,
 
-:small_blue_diamond: I’m deeply interested in Web Design, UX and UI.
+:small_blue_diamond: I’m deeply interested in **Web Design**, **UX** and **UI**.
 
 &nbsp;
 
 ## :hammer_and_wrench: Tech Stack 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,wordpress,ps)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,wordpress,ps)
 
 
 &nbsp;
