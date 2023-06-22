@@ -32,7 +32,7 @@ My name is Ariadna and I’m an **aspiring junior web developer** from Wrocław,
 
 ## :hammer_and_wrench: Tech Stack 
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,wordpress,ps)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,wordpress,figma,ps)
 
 
 &nbsp;
