@@ -39,7 +39,8 @@ My name is Ariadna and I’m an **aspiring junior web developer** from Wrocław,
 
 ## :writing_hand: My blog posts 
 :poland:  [Wordpress image description fields - How to fill them in?](https://ponitcestudio.pl/pola-opisu-zdjec-na-wordpressie-%EF%BF%BC/)<br>
-:poland:  [How to add a new user in WordPress - Roles and Permissions ](https://ponitcestudio.pl/jak-dodac-nowego-uzytkownika-w-wordpressie/)
+:poland:  [How to add a new user in WordPress - Roles and Permissions ](https://ponitcestudio.pl/jak-dodac-nowego-uzytkownika-w-wordpressie/)<br>
+:poland:  [Loco Translate - A short guide on how to add missing translations to your blog.](https://ponitcestudio.pl/loco-translate-czyli-krotki-przewodnik-jak-wprowadzic-brakujace-tlumaczenia-na-twoim-blogu/)
 
 &nbsp;
 
